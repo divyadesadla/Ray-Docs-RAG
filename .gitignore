@@ -1,0 +1,49 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Anaconda
+*.conda
+*.env
+*.bak
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Data and models
+data/
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.pkl
+
+# Huggingface cache
+~/.cache/
+huggingface/
+
+# Evaluation reports
+evaluation_reports/
+
+# API key files 
+.env
+
