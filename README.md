@@ -116,7 +116,7 @@ This script evaluates the performance of the generated responses, comparing them
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ray-docs-rag-pipeline.git
+   git clone https://github.com/divyadesadla/Ray-Docs-RAG.git
    cd ray-docs-rag-pipeline
 
 2. Run the code in order of:
